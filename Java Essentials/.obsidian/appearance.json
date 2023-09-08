@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "textFontFamily": "Inter,CMU Classical Serif",
+  "monospaceFontFamily": "JetBrains Mono",
+  "baseFontSize": 16,
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "snippet"
+  ]
+}

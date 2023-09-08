@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "25d1984dd65b49ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d3e3ace4f4a19eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f755f6a26665ebad",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3993444dd6703600",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3adb64302de9db0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8976b77f2f4a0ffa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b8fc5258d2d48743",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "**",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f79a38223fb2ac9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "6d2659eabd763ade",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb0138bae284a3c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed0464f611565203",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f96b827087b589ff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "50aebf87660dd397",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2a5678e15e8f08a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f755f6a26665ebad",
+  "lastOpenFiles": [
+    "Recursion.md",
+    "Iteration.md",
+    "MariaDB.md",
+    "Classes and Objects.md",
+    "Classes.md",
+    "Class.md",
+    "Objects.md",
+    "Control Flow Statements.md",
+    "Expressions, Statements, and Blocks.md",
+    "Operators.md",
+    "Pasted image 20230813164037.png",
+    "Variables.md",
+    "tutorial/reallybigindex.html",
+    "tutorial/tutorialLearningPaths.html",
+    "tutorial/index.html",
+    "tutorial/displayCode.html",
+    "tutorial/uiswing/examples/components/TumbleItemProject/src/components/images/tumble/Thumbs.db",
+    "tutorial/uiswing/examples/components/TumbleItemProject/src/components/images/tumble/T9.gif",
+    "tutorial/uiswing/examples/components/TumbleItemProject/src/components/images/tumble/T8.gif",
+    "tutorial/uiswing/examples/components/TumbleItemProject/src/components/images/tumble/T7.gif",
+    "tutorial/uiswing/examples/components/TumbleItemProject/src/components/images/tumble/T6.gif",
+    "tutorial/uiswing/examples/components/TumbleItemProject/src/components/images/tumble/T5.gif",
+    "tutorial/uiswing/examples/components/TumbleItemProject/src/components/images/tumble/T4.gif",
+    "tutorial/uiswing/examples/components/TumbleItemProject/src/components/images/tumble/T3.gif",
+    "tutorial/uiswing/examples/components/TumbleItemProject/src/components/images/tumble/T2.gif",
+    "tutorial/uiswing/examples/components/TumbleItemProject/src/components/images/tumble/T17.gif",
+    "tutorial/uiswing/examples/components/TumbleItemProject/src/components/images/tumble",
+    "tutorial/uiswing/examples/components/ToolBarDemoProject/src/components/jars/jlfgr-1_0.jar",
+    "tutorial/uiswing/examples/components/ToolBarDemo2Project/src/components/jars/jlfgr-1_0.jar",
+    "tutorial/uiswing/examples/components/SliderDemoProject/src/components/images/doggy",
+    "tutorial/uiswing/examples/components/SliderDemo2Project/src/components/images/doggy",
+    "Primitive types.md",
+    "Interface.md",
+    "Inheritence.md",
+    "Package.md",
+    "Scanning.md",
+    "Formatting.md",
+    "().md",
+    "Input and Output from the Command Line.md",
+    "Input and Output streams.md"
+  ]
+}
