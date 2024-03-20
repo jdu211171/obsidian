@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React Native/Error and User handling.md",
+                "file": "React Native/React Native components.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "18c17baeeade8e36",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React Native/Error and User handling.md",
+                "file": "React Native/React Native components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React Native/Error and User handling.md",
+                "file": "React Native/React Native components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React Native/Error and User handling.md"
+                "file": "React Native/React Native components.md"
               }
             }
           }
@@ -148,7 +149,12 @@
   },
   "active": "7f118de18ad85cee",
   "lastOpenFiles": [
+    "Pasted image 20240321004835.png",
+    "Pasted image 20240321003054.png",
+    "Pasted image 20240321002600.png",
+    "Pasted image 20240321001600.png",
     "React Native/Error and User handling.md",
+    "React Native/React Native components.md",
     "React Native",
     "ReactJS/Route.md"
   ]
