@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "840fbb52768797e3",
+        "id": "d118b5138198ad48",
         "type": "tabs",
         "children": [
           {
-            "id": "50f4c7a5059f9a77",
+            "id": "482a2d53d4d070e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clear Linux OS/Useful bundles.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clear Linux OS/Useful bundles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clear Linux OS/Useful bundles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Clear Linux OS/Useful bundles.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50f4c7a5059f9a77",
+  "active": "482a2d53d4d070e1",
   "lastOpenFiles": [
+    "Clear Linux OS/Android SDK CLI tools only.md",
+    "Clear Linux OS/Android SDK CLI tools only.md",
+    "android_sdk_install_guide.md",
     "Clear Linux OS/Useful bundles.md",
     "Clear Linux OS/Japanese Input.md",
     "CSharp/Built-in types.md",
