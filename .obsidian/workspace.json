@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8ff9ed2a01729fd7",
+        "id": "840fbb52768797e3",
         "type": "tabs",
         "children": [
           {
-            "id": "7f118de18ad85cee",
+            "id": "50f4c7a5059f9a77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React Native/React Native components.md",
+                "file": "Clear Linux OS/Useful bundles.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "18c17baeeade8e36",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React Native/React Native components.md",
+                "file": "Clear Linux OS/Useful bundles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React Native/React Native components.md",
+                "file": "Clear Linux OS/Useful bundles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React Native/React Native components.md"
+                "file": "Clear Linux OS/Useful bundles.md"
               }
             }
           }
@@ -147,14 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f118de18ad85cee",
+  "active": "50f4c7a5059f9a77",
   "lastOpenFiles": [
-    "Pasted image 20240321004835.png",
-    "Pasted image 20240321003054.png",
-    "Pasted image 20240321002600.png",
-    "Pasted image 20240321001600.png",
-    "React Native/Error and User handling.md",
+    "Clear Linux OS/Useful bundles.md",
+    "Clear Linux OS/Japanese Input.md",
+    "CSharp/Built-in types.md",
+    "Clear Linux OS",
+    "German/Alphabet.md",
+    "CSharp",
+    "Git and GitHub/Managing Project.md",
+    "German",
+    "Git and GitHub",
     "React Native/React Native components.md",
+    "React Native/Pasted image 20240321001600.png",
+    "React Native/Error and User handling.md",
+    "React Native/Pasted image 20240321004835.png",
+    "React Native/Pasted image 20240321003054.png",
+    "React Native/Pasted image 20240321002600.png",
     "React Native",
     "ReactJS/Route.md"
   ]
