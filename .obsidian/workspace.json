@@ -4,18 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "d118b5138198ad48",
+        "id": "eb0e8eab50dee237",
         "type": "tabs",
         "children": [
           {
-            "id": "482a2d53d4d070e1",
+            "id": "37f56f2ab73cec27",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "Planner/planner.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e72a7a07e2d56964",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-04-20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01c9a9f967198818",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-04-27.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15f2dff25a89e1e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-04-18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c9e8e5437a4cf53",
+            "type": "leaf",
+            "state": {
+              "type": "weekly",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -81,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024-04-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-04-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +169,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "2024-04-18.md"
+              }
+            }
+          },
+          {
+            "id": "b3db7a0c100c4d41",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -135,11 +196,29 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "482a2d53d4d070e1",
+  "active": "5c9e8e5437a4cf53",
   "lastOpenFiles": [
+    "Untitled.md",
+    "2024-04-18.md",
+    "Planner/planner.md",
+    "daily/daily",
+    "daily",
+    "2024-04-27.md",
+    "2024-04-20.md",
+    "2024-04-24.md",
+    "2024-04-22.md",
+    "2024-04-19.md",
+    "2024-04-17.md",
+    "Day Planners/Day Planner-20240418.md",
+    "Git and GitHub/Managing Project.md",
+    "Day Planners",
+    "Planner/Untitled.md",
+    "Planner.md",
+    "Planner",
     "Clear Linux OS/Android SDK CLI tools only.md",
     "Clear Linux OS/Android SDK CLI tools only.md",
     "android_sdk_install_guide.md",
@@ -149,7 +228,6 @@
     "Clear Linux OS",
     "German/Alphabet.md",
     "CSharp",
-    "Git and GitHub/Managing Project.md",
     "German",
     "Git and GitHub",
     "React Native/React Native components.md",
