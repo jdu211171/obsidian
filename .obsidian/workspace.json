@@ -11,56 +11,44 @@
             "id": "37f56f2ab73cec27",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Planner/planner.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "e72a7a07e2d56964",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-04-20.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "01c9a9f967198818",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-04-27.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "15f2dff25a89e1e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-04-18.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "5c9e8e5437a4cf53",
             "type": "leaf",
             "state": {
-              "type": "weekly",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Clear Linux OS/Japanese Input.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -130,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-18.md",
+                "file": "Clear Linux OS/Japanese Input.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-18.md",
+                "file": "Clear Linux OS/Japanese Input.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-18.md"
+                "file": "Clear Linux OS/Japanese Input.md"
               }
             }
           },
@@ -187,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,12 +185,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-day-planner:Timeline": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "5c9e8e5437a4cf53",
   "lastOpenFiles": [
+    "Clear Linux OS/Android SDK CLI tools only.md",
+    "Clear Linux OS/Japanese Input.md",
+    "Clear Linux OS/Useful bundles.md",
     "Untitled.md",
     "2024-04-18.md",
     "Planner/planner.md",
@@ -219,11 +210,7 @@
     "Planner/Untitled.md",
     "Planner.md",
     "Planner",
-    "Clear Linux OS/Android SDK CLI tools only.md",
-    "Clear Linux OS/Android SDK CLI tools only.md",
     "android_sdk_install_guide.md",
-    "Clear Linux OS/Useful bundles.md",
-    "Clear Linux OS/Japanese Input.md",
     "CSharp/Built-in types.md",
     "Clear Linux OS",
     "German/Alphabet.md",
