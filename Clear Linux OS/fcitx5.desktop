@@ -1,0 +1,4 @@
+[Desktop Entry]
+Type=Application
+Name=Fcitx5
+Exec=flatpak run org.fcitx.Fcitx5

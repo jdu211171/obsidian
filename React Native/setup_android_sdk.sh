@@ -2,7 +2,7 @@
 
 # Define variables
 ANDROID_SDK_DIR="$HOME/.android_sdk"
-CMDLINE_TOOLS_ZIP="commandlinetools-linux-9477386_latest.zip" # Update this with the correct filename if different
+CMDLINE_TOOLS_ZIP="commandlinetools-linux-11076708_latest.zip" # Update this with the correct filename if different
 CMDLINE_TOOLS_URL="https://dl.google.com/android/repository/$CMDLINE_TOOLS_ZIP" # Update this with the correct URL if different
 
 # Function to handle errors
