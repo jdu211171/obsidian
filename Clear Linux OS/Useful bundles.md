@@ -1,4 +1,3 @@
 ```bash
-# GitHub CLI
-sudo swupd bundle-add gh dosfstools
+sudo swupd bundle-add gh dosfstools containers-basic httpd php-basic mariadb 
 ```
